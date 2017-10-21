@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/ReminderDemoFT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/marmm/AndroidStudioProjects/ReminderDemoFT/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_771964ea20f5603a97da8a520bde0f4f0435d11c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/ReminderDemoFT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73b5d3c468f9cefce2a9346694d4a918cc9c0fd1">
+        <dex dex="/Users/marmm/AndroidStudioProjects/ReminderDemoFT/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df4e07b5792515d6f5943f88a2341f25c2b37dc7/classes.dex" />
+    </item>
+
+</items>
